@@ -10,3 +10,6 @@ Tkinter kullanarak geliştirilen temel görev yönetimi uygulaması
 ## 🖥️ Kullanılan Teknolojiler
 - Python 3.x
 - Tkinter (yerleşik GUI kütüphanesi)
+
+
+ ![Uygulama Arayüzü](Ekran görüntüsü 2025-05-22 150659.png)
